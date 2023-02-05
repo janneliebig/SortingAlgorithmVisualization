@@ -1,7 +1,5 @@
 // Insertion Sort
-// Author: Janne Liebig
 // 04. Februar 2023
-// Weiler zum Stein
 
 #include <stdio.h>
 #include <stdlib.h>
